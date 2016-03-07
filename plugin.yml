@@ -1,0 +1,9 @@
+name: Would You Rather
+author: FlamingGenius
+main: FlamingGenius\wyr\main
+description: Simple would you rather game
+version: 1.0.0
+commands:
+ wyr:
+  description: Get a would you rather question
+  usage: "/wyr"
