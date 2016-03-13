@@ -3,6 +3,7 @@ author: FlamingGenius
 main: FlamingGenius\wyr\main
 description: Simple would you rather game
 version: 1.0.2
+api: 1.12.0
 commands:
  wyr:
   description: Get a would you rather question based on the type of question you prefer
