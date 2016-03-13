@@ -4,7 +4,7 @@ namespace FlamingGenius\wyr;
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
 use pocketmine\command\Command;
-use pocketmine\command\CommandSender;\
+use pocketmine\command\CommandSender;
 use pocketmine\utils\Config;
 use pocketmine\tile\Sign;
 use pocketmine\event\block\SignChangeEvent;
